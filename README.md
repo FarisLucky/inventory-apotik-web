@@ -21,6 +21,13 @@ Dokumentasi dari sistem menggunakan model UML karena awal dari pembuatan projek 
 4. Pembelian (Belum Selesai)
 5. Laporan Bulanan (Belum Selesai)
 ```
+
+## Spesifikasi Perangkat lunak
+```
+1. PHP > 7.*
+2. Mysql & Apache
+3. Laravel >= 8.*
+```
 ## Informasi Terakhir
 Sistem ini belum sepenuh nya selesai karena saat pembuatan sistem ini, saya juga sedang menyelesaikan skripsi dan saya _memutuskan untuk **menghentikan**_ pengembangan pada sistem ini.
 
