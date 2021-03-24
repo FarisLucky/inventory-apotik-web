@@ -1,13 +1,16 @@
 # Sistem Informasi Inventory Apotik
 ![gambar](img.png)
-Apotek adalah sarana pelayanan keafarmasian yang tempat dilakukan praktik kefarmasian oleh apoteker (Narendra et al., 2017) selain sebagai tempat pelayanan kefarmasian apotek juga sebagai tempat penyaluran sediaan farmasi dan pembekalan kesehatan kepada masyarakat<br/>.
-Sistem informasi inventory apotik dapat mempermudah kontrol stock barang, monitoring kadaluarsa barang, dan sistem penjualan sehingga laporan bisa direkap secara digital sehingga efektif dan efisien<br/>.
+Apotek adalah sarana pelayanan keafarmasian yang tempat dilakukan praktik kefarmasian oleh apoteker (Narendra et al., 2017) selain sebagai tempat pelayanan kefarmasian apotek juga sebagai tempat penyaluran sediaan farmasi dan pembekalan kesehatan kepada masyarakat.
 
-Sistem informasi inven apotik pernah dibuat pada platform desktop. Tujuan dari pembuatan platform web  agar sistem tersebut mempunyai ruang lingkupnya akses lebih luas. Proyek sistem ini bersifat open source dan siapa saja dapat mengunduh source code<br/>.
+Sistem informasi inventory apotik dapat mempermudah kontrol stock barang, monitoring kadaluarsa barang, dan sistem penjualan sehingga laporan bisa direkap secara digital sehingga efektif dan efisien.
 
-### Fitur-fitur dari sistem
+Sistem informasi inven apotik pernah dibuat pada platform desktop. Tujuan dari pembuatan platform web  agar sistem tersebut mempunyai ruang lingkupnya akses lebih luas. Proyek sistem ini bersifat open source dan siapa saja dapat mengunduh source code.
+
+### Dokumentasi Sistem
 ![use case](use%20case.jpeg)
 Dokumentasi dari sistem menggunakan model UML karena awal dari pembuatan projek ini menggunakan konsep berorientasi object. Diagram lainnya dapat di lihat pada folder [disini](https://github.com/FarisLucky/inventory-apotik-web/tree/main/Activity)
+### List Fitur Sistem
+```
 1. Login
 2. Management User And Role
 3. Data Master
@@ -17,8 +20,11 @@ Dokumentasi dari sistem menggunakan model UML karena awal dari pembuatan projek 
    d. Kategori Obat
 4. Pembelian (Belum Selesai)
 5. Laporan Bulanan (Belum Selesai)
-<br/>
-Sistem ini belum sepenuh nya selesai karena saat pembuatan sistem ini, saya juga sedang menyelesaikan skripsi dan saya _memutuskan untuk **menghentikan**_ pengembangan pada sistem ini<br/>. 
+```
+## Informasi Terakhir
+Sistem ini belum sepenuh nya selesai karena saat pembuatan sistem ini, saya juga sedang menyelesaikan skripsi dan saya _memutuskan untuk **menghentikan**_ pengembangan pada sistem ini.
+
+### 
 
 
 
